@@ -1,0 +1,6 @@
+2017/04/26 01:21:16 [emerg] 2178#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/26 01:21:16 [emerg] 2178#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/26 01:21:16 [emerg] 2178#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/26 01:21:16 [emerg] 2178#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/26 01:21:16 [emerg] 2178#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/26 01:21:16 [emerg] 2178#0: still could not bind()

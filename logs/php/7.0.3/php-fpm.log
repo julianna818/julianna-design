@@ -1,0 +1,6 @@
+[12-Apr-2017 01:39:36] NOTICE: fpm is running, pid 854
+[12-Apr-2017 01:39:36] NOTICE: ready to handle connections
+[26-Apr-2017 01:21:19] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm.sock
+[26-Apr-2017 01:21:19] ERROR: FPM initialization failed
+[05-May-2017 01:23:47] NOTICE: fpm is running, pid 620
+[05-May-2017 01:23:47] NOTICE: ready to handle connections
