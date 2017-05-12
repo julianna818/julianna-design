@@ -1,0 +1,280 @@
+[11-May-2017 19:45:29 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:45:29 UTC] PHP Stack trace:
+[11-May-2017 19:45:29 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:45:29 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:45:29 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:45:29 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:45:29 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:45:29 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:45:29 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:45:29 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:45:29 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:45:29 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:45:29 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:45:29 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:45:29 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:45:29 UTC] PHP Stack trace:
+[11-May-2017 19:45:29 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:45:29 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:45:29 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:45:29 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:45:29 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:45:29 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:45:29 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:45:29 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:45:29 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:45:29 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:45:29 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:45:29 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:45:34 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:45:34 UTC] PHP Stack trace:
+[11-May-2017 19:45:34 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:45:34 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:45:34 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:45:34 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:45:34 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:45:34 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:45:34 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:45:34 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:45:34 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:45:34 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:45:34 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:45:34 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:45:34 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:45:34 UTC] PHP Stack trace:
+[11-May-2017 19:45:34 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:45:34 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:45:34 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:45:34 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:45:34 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:45:34 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:45:34 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:45:34 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:45:34 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:45:34 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:45:34 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:45:34 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:46:04 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:46:04 UTC] PHP Stack trace:
+[11-May-2017 19:46:04 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:46:04 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:46:04 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:46:04 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:46:04 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:46:04 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:46:04 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:04 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:46:04 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:46:04 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:46:04 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:04 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:46:04 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:46:04 UTC] PHP Stack trace:
+[11-May-2017 19:46:04 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:46:04 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:46:04 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:46:04 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:46:04 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:46:04 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:46:04 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:04 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:46:04 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:46:04 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:46:04 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:04 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:46:25 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:46:25 UTC] PHP Stack trace:
+[11-May-2017 19:46:25 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:46:25 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:46:25 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:46:25 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:46:25 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:46:25 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:46:25 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:25 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:46:25 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:46:25 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:46:25 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:25 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:46:25 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:46:25 UTC] PHP Stack trace:
+[11-May-2017 19:46:25 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:46:25 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:46:25 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:46:25 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:46:25 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:46:25 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:46:25 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:25 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:46:25 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:46:25 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:46:25 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:25 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:46:29 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:46:29 UTC] PHP Stack trace:
+[11-May-2017 19:46:29 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:46:29 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:46:29 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:46:29 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:46:29 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:46:29 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:46:29 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:29 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:46:29 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:46:29 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:46:29 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:29 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:46:29 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:46:29 UTC] PHP Stack trace:
+[11-May-2017 19:46:29 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:46:29 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:46:29 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:46:29 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:46:29 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:46:29 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:46:29 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:29 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:46:29 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:46:29 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:46:29 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:46:29 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:47:53 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:47:53 UTC] PHP Stack trace:
+[11-May-2017 19:47:53 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:47:53 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:47:53 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:47:53 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:47:53 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:47:53 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:47:53 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:47:53 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:47:53 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:47:53 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:47:53 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:47:53 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:47:53 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:47:53 UTC] PHP Stack trace:
+[11-May-2017 19:47:53 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:47:53 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:47:53 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:47:53 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:47:53 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:47:53 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:47:53 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:47:53 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:47:53 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:47:53 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:47:53 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:47:53 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:48:23 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:48:23 UTC] PHP Stack trace:
+[11-May-2017 19:48:23 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:48:23 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:48:23 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:48:23 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:48:23 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:48:23 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:48:23 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:48:23 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:48:23 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:48:23 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:48:23 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:48:23 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:48:23 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:48:23 UTC] PHP Stack trace:
+[11-May-2017 19:48:23 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:48:23 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:48:23 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:48:23 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:48:23 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:48:23 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:48:23 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:48:23 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:48:23 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:48:23 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:48:23 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:48:23 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:49:57 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:49:57 UTC] PHP Stack trace:
+[11-May-2017 19:49:57 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:49:57 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:49:57 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:49:57 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:49:57 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:49:57 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:49:57 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:49:57 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:49:57 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:49:57 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:49:57 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:49:57 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:49:57 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:49:57 UTC] PHP Stack trace:
+[11-May-2017 19:49:57 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:49:57 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:49:57 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:49:57 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:49:57 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:49:57 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:49:57 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:49:57 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:49:57 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:49:57 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:49:57 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:49:57 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:50:01 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:50:01 UTC] PHP Stack trace:
+[11-May-2017 19:50:01 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:50:01 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:50:01 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:50:01 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:50:01 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:50:01 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:50:01 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:50:01 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:50:01 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:50:01 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:50:01 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:50:01 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:50:01 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:50:01 UTC] PHP Stack trace:
+[11-May-2017 19:50:01 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:50:01 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:50:01 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:50:01 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:50:01 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:50:01 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:50:01 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:50:01 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:50:01 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:50:01 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:50:01 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:50:01 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:51:33 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:51:33 UTC] PHP Stack trace:
+[11-May-2017 19:51:33 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:51:33 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:51:33 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:51:33 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:51:33 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:51:33 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:51:33 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:51:33 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:51:33 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:51:33 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:51:33 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:51:33 UTC] PHP  12. require() /app/public/wp-includes/template.php:686
+[11-May-2017 19:51:33 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:') in /app/public/wp-content/themes/four-oh-five/template-parts/navigation/navigation-top.php on line 20
+[11-May-2017 19:51:33 UTC] PHP Stack trace:
+[11-May-2017 19:51:33 UTC] PHP   1. {main}() /app/public/index.php:0
+[11-May-2017 19:51:33 UTC] PHP   2. require() /app/public/index.php:17
+[11-May-2017 19:51:33 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:19
+[11-May-2017 19:51:33 UTC] PHP   4. include() /app/public/wp-includes/template-loader.php:74
+[11-May-2017 19:51:33 UTC] PHP   5. get_header() /app/public/wp-content/themes/four-oh-five/page-home.php:4
+[11-May-2017 19:51:33 UTC] PHP   6. locate_template() /app/public/wp-includes/general-template.php:45
+[11-May-2017 19:51:33 UTC] PHP   7. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:51:33 UTC] PHP   8. require_once() /app/public/wp-includes/template.php:684
+[11-May-2017 19:51:33 UTC] PHP   9. get_template_part() /app/public/wp-content/themes/four-oh-five/header.php:32
+[11-May-2017 19:51:33 UTC] PHP  10. locate_template() /app/public/wp-includes/general-template.php:167
+[11-May-2017 19:51:33 UTC] PHP  11. load_template() /app/public/wp-includes/template.php:643
+[11-May-2017 19:51:33 UTC] PHP  12. require() /app/public/wp-includes/template.php:686

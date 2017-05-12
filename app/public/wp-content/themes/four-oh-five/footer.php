@@ -20,10 +20,18 @@
     <p><?php bloginfo( 'name' ); ?> | <?php bloginfo( 'description' ); ?> </p>
 		<p>Copyright &copy; <?php echo date("Y"); ?></p>
 
-		<a href="https://www.linkedin.com/in/julianna-doychinov-64814b86/">LinkedIn</a>
-		<a href="https://www.behance.net/juliannad">Behance</a>
-		<a href="https://www.instagram.com/julianna818">Instagram</a>
-		<a href="https://www.facebook.com/juliannadarling">Facebook</a>
+		<a href="https://www.linkedin.com/in/julianna-doychinov-64814b86/">
+  		<img src="http://julianna-design.dev/wp-content/uploads/2017/05/linkedin@300x.png" alt="LinkedIn" style="width:42px;height:42px;border:0;">
+		</a>
+		<a href="https://www.behance.net/juliannad">
+  		<img src="http://julianna-design.dev/wp-content/uploads/2017/05/behance@300x.png" alt="Behance" style="width:42px;height:42px;border:0;">
+		</a>
+		<a href="https://www.instagram.com/julianna818">
+  		<img src="http://julianna-design.dev/wp-content/uploads/2017/05/instagram@300x.png" alt="Instagram" style="width:42px;height:42px;border:0;">
+		</a>
+		<a href="https://www.facebook.com/juliannadarling">
+  		<img src="http://julianna-design.dev/wp-content/uploads/2017/05/facebook@300x.png" alt="Facebook" style="width:42px;height:42px;border:0;">
+		</a>
 		
 	</div>
 </footer>

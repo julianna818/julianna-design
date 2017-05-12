@@ -10,11 +10,14 @@
 
 ?>
 
+
+
 <header class="navbar navbar-toggleable-md navbar-light bg-faded">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#bs4navbar" aria-controls="bs4navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <?php the_custom_logo(); ?>
+ 
 
 
   <?php if ( is_front_page() ) : ?>
